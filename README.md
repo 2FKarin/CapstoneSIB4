@@ -8,3 +8,6 @@ Our Team:
 * F026XB417 -Gigih Pangudi Arta - Aktif
 * F011XB011 - Afdal Wahyi - Aktif
 * Tatan Dasusalam - F071XB119 - Aktif
+
+**Open here**
+<a href='https://steady-sorbet-6b9074.netlify.app/'>KuySports</a>
